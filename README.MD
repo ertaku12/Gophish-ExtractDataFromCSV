@@ -12,10 +12,6 @@
 
 4. Result file will be ready in a second. <br><br>
 
-### WHAT THIS SCRIPT CAN NOT DO?
-
-1. Extracting raw passwords and usernames.
-
 ## EXAMPLE INPUT
 
 
@@ -25,3 +21,5 @@
 
 
 ![](/img/img2.png)
+
+### Note: This script can't extract raw passwords and usernames.
